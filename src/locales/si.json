@@ -1,0 +1,207 @@
+
+{
+  "profile": "පැතිකඩ",
+  "dashboard": "පාලක පුවරුව",
+  "allUsers": "සියලුම පරිශීලකයින්",
+  "approvals": "අනුමැතීන්",
+  "schools": "දහම් පාසල්",
+  "events": "තරඟ ඉසව්",
+  "createCompetition": "තරඟයක් සාදන්න",
+  "competitions": "තරඟ",
+  "teachers": "ගුරුවරුන්",
+  "mySchool": "මගේ දහම් පාසල",
+  "students": "සිසුන්",
+  "logout": "ඉවත් වන්න",
+
+  "adminDashboard": "පරිපාලක පාලක පුවරුව",
+  "welcomeAdmin": "පරිපාලක පාලක පුවරුව වෙත සාදරයෙන් පිළිගනිමු",
+  "totalUsers": "මුළු පරිශීලකයින්",
+  "allRegisteredUsers": "ලියාපදිංචි වී ඇති සියලුම පරිශීලකයින්",
+  "pendingApprovals": "අනුමැතිය අපේක්ෂිත",
+  "usersWaitingApproval": "අනුමැතිය සඳහා රැඳී සිටින පරිශීලකයින්",
+  "approvedUsers": "අනුමත කළ පරිශීලකයින්",
+  "approvedSystemUsers": "අනුමත කළ පද්ධති පරිශීලකයින්",
+
+  "userApprovals": "පරිශීලක අනුමැතීන්",
+  "loading": "පූරණය වෙමින්...",
+  "noPendingUsers": "අනුමැතිය සඳහා පරිශීලකයින් නොමැත.",
+  "approveAsJudge": "විනිශ්චයකරුවෙකු ලෙස අනුමත කරන්න",
+  "approveAsTeacher": "ගුරුවරයෙකු ලෙස අනුමත කරන්න",
+  "reject": "ප්‍රතික්ෂේප කරන්න",
+  "approvalFailed": "අනුමත කිරීම අසාර්ථක විය",
+  "rejectionFailed": "ප්‍රතික්ෂේප කිරීම අසාර්ථක විය",
+
+  "registeredDhammaSchools": "ලියාපදිංචි දහම් පාසල්",
+  "totalSchools": "මුළු දහම් පාසල්",
+  "noDhammaSchools": "ලියාපදිංචි කළ දහම් පාසල් නොමැත",
+  "noDhammaSchoolsDescription": "දැනට ලියාපදිංචි කළ දහම් පාසල් නොමැත.",
+  "schoolNumber": "පාසල් අංකය",
+  "registrationNumber": "ලියාපදිංචි අංකය",
+  "address": "ලිපිනය",
+  "regionalShasanarakshakaMandalaya": "ප්‍රාදේශීය ශාසනාරක්ෂක මණ්ඩලය",
+  "district": "දිස්ත්‍රික්කය",
+  "status": "තත්ත්වය",
+  "viewStudents": "සිසුන් බලන්න",
+  "failedToLoadSchools": "දහම් පාසල් පූරණය කිරීම අසාර්ථක විය",
+  "loadingDhammaSchools": "දහම් පාසල් පූරණය වෙමින්...",
+
+
+  "dhammaSchool": "දහම් පාසල",
+  "manageDhammaSchool": "ඔබගේ දහම් පාසල කළමනාකරණය කරන්න",
+
+  "registerNewDhammaSchool": "නව දහම් පාසලක් ලියාපදිංචි කරන්න",
+  "joinExistingSchool": "පවතින දහම් පාසලකට සම්බන්ධ වන්න",
+
+  
+
+  "registerDhammaSchool": "දහම් පාසල ලියාපදිංචි කරන්න",
+  "joinDhammaSchool": "දහම් පාසලකට සම්බන්ධ වන්න",
+
+  "schoolName": "පාසලේ නම",
+
+  "cancel": "අවලංගු කරන්න",
+  "registerSchool": "පාසල ලියාපදිංචි කරන්න",
+  "joinSchool": "පාසලට සම්බන්ධ වන්න",
+
+  "waitingForAdminApproval": "පරිපාලක අනුමැතිය සඳහා රැඳී සිටී",
+  "addStudentsAfterApproval": "ඔබගේ දහම් පාසල පරිපාලක විසින් අනුමත කළ පසු පමණක් සිසුන් එකතු කළ හැක.",
+  "dhammaSchoolApproved": "ඔබගේ දහම් පාසල අනුමත කර ඇත.",
+
+  "schoolLoaded": "දහම් පාසල සාර්ථකව පූරණය විය",
+  "dhammaSchoolRegisteredSuccessfully": "දහම් පාසල සාර්ථකව ලියාපදිංචි කරන ලදී",
+  "joinedDhammaSchoolSuccessfully": "දහම් පාසලට සාර්ථකව සම්බන්ධ විය",
+
+  "failedToLoadSchool": "දහම් පාසල පූරණය කිරීම අසාර්ථක විය",
+  "failedToCreateSchool": "දහම් පාසල නිර්මාණය කිරීම අසාර්ථක විය",
+  "failedToJoinSchool": "දහම් පාසලට සම්බන්ධ වීම අසාර්ථක විය",
+
+
+
+  "schoolApprovals": "දහම් පාසල් අනුමැතීන්",
+  "reviewApproveSchools": "දහම් පාසල් ලියාපදිංචි කිරීම් පරීක්ෂා කර අනුමත කරන්න.",
+  "loadingSchoolApprovals": "දහම් පාසල් අනුමැතීන් පූරණය වෙමින්...",
+
+  "noPendingSchools": "අනුමැතිය සඳහා දහම් පාසල් නොමැත",
+  "noSchoolsWaitingApproval": "දැනට අනුමැතිය සඳහා රැඳී සිටින දහම් පාසල් නොමැත.",
+
+  "schoolNo": "පාසල් අංකය",
+
+  "pradeshiyaShasanarakshakaMandalaya": "ප්‍රාදේශීය ශාසනාරක්ෂක මණ්ඩලය",
+  
+  "registeredBy": "ලියාපදිංචි කළේ",
+
+  "pending": "අනුමැතිය අපේක්ෂිත",
+  "approve": "අනුමත කරන්න",
+ 
+
+  "confirmRejectSchool": "ඔබට මෙම දහම් පාසල ප්‍රතික්ෂේප කිරීමට අවශ්‍ය බව විශ්වාසද?",
+
+ 
+  "failedToApproveSchool": "දහම් පාසල අනුමත කිරීම අසාර්ථක විය",
+  "failedToRejectSchool": "දහම් පාසල ප්‍රතික්ෂේප කිරීම අසාර්ථක විය",
+
+
+
+  "myStudents": "මගේ සිසුන්",
+  "studentsBelongingToSchool": "ඔබගේ දහම් පාසලට අයත් සිසුන්",
+
+  "addStudent": "ශිෂ්‍යයෙකු එකතු කරන්න",
+  "addFirstStudent": "පළමු ශිෂ්‍යයා එකතු කරන්න",
+
+  "noStudents": "සිසුන් නොමැත",
+  "noStudentsYet": "ඔබ තවමත් කිසිදු ශිෂ්‍යයෙකු එකතු කර නොමැත.",
+
+  "studentId": "ශිෂ්‍ය හැඳුනුම් අංකය",
+  "nipunathaNo": "නිපුණතා අංකය",
+  "name": "නම",
+  "grade": "ශ්‍රේණිය",
+  "gender": "ස්ත්‍රී / පුරුෂ",
+
+  "actions": "ක්‍රියාමාර්ග",
+
+  "edit": "සංස්කරණය",
+  "delete": "මකන්න",
+  "submit": "යොමු කරන්න",
+  "locked": "අගුළු දමා ඇත",
+
+  "confirmDeleteStudent": "ඔබට මෙම ශිෂ්‍යයා මකා දැමීමට අවශ්‍ය බව විශ්වාසද?",
+  "confirmSubmitStudent": "යොමු කළ පසු මෙම ශිෂ්‍යයාගේ තොරතුරු සංස්කරණය කිරීමට හෝ මකා දැමීමට නොහැක. ඉදිරියට යන්නද?",
+
+  "failedToLoadStudents": "සිසුන් පූරණය කිරීම අසාර්ථක විය",
+  "failedToDeleteStudent": "ශිෂ්‍යයා මකා දැමීම අසාර්ථක විය",
+  "failedToSubmitStudent": "ශිෂ්‍යයා යොමු කිරීම අසාර්ථක විය",
+
+
+
+
+  "registerSchoolDescription": "ඔබගේ දහම් පාසල ලියාපදිංචි කරන්න. පරිපාලක විසින් අනුමත කරන තෙක් පාසල අනුමැතිය අපේක්ෂිත තත්ත්වයේ පවතී.",
+  "enterSchoolName": "දහම් පාසලේ නම ඇතුළත් කරන්න",
+  "enterSchoolAddress": "පාසලේ ලිපිනය ඇතුළත් කරන්න",
+  "registrationNumberPlaceholder": "උදාහරණය: DS-001",
+  "enterPradeshiyaShasanarakshakaMandalaya": "ප්‍රාදේශීය ශාසනාරක්ෂක මණ්ඩලය ඇතුළත් කරන්න",
+  "enterDistrict": "දිස්ත්‍රික්කය ඇතුළත් කරන්න",
+  "fillAllFields": "කරුණාකර සියලුම ක්ෂේත්‍ර පුරවන්න",
+  "submitting": "යොමු කරමින්...",
+
+
+  "teacherDashboard": "ගුරු පාලක පුවරුව", 
+  "manageYourDhammaSchool": "ඔබගේ දහම් පාසල කළමනාකරණය කරන්න", 
+  "noDhammaSchoolRegistered": "දහම් පාසලක් ලියාපදිංචි කර නොමැත", 
+  "youHaveNotRegisteredSchool": "ඔබ තවමත් දහම් පාසලක් ලියාපදිංචි කර නොමැත.", 
+  "createDhammaSchool": "දහම් පාසලක් සාදන්න", 
+ 
+  "schoolRegistrationSubmitted": "ඔබගේ දහම් පාසල් ලියාපදිංචිය සාර්ථකව යොමු කර ඇත. පරිපාලක විසින් පාසල අනුමත කරන තෙක් ඔබට සිසුන් එකතු කළ නොහැක.", 
+  "youCanRegisterStudents": "දැන් ඔබට ඔබගේ දහම් පාසල යටතේ සිසුන් ලියාපදිංචි කළ හැක.", 
+ 
+  "schoolRegistrationRejected": "පාසල් ලියාපදිංචිය ප්‍රතික්ෂේප කර ඇත", 
+  "schoolRegistrationRejectedDescription": "ඔබගේ දහම් පාසල් ලියාපදිංචිය පරිපාලක විසින් ප්‍රතික්ෂේප කර ඇත. කරුණාකර පරිපාලක අමතන්න." ,
+
+
+  "loadingResults": "ප්‍රතිඵල පූරණය වෙමින්...",
+  "failedToLoadResults": "ප්‍රතිඵල පූරණය කිරීම අසාර්ථක විය",
+  "results": "ප්‍රතිඵල",
+  "noPublishedResults": "ප්‍රකාශයට පත් කළ ප්‍රතිඵල නොමැත",
+  "resultsWillAppearAfterAdminPublishes": "පරිපාලක විසින් ප්‍රතිඵල ප්‍රකාශයට පත් කළ පසු ඒවා මෙහි දිස්වනු ඇත.",
+  "competitionResults": "තරඟ ප්‍රතිඵල",
+  "mySchoolStudentsResults": "මගේ දහම් පාසලේ සිසුන්ගේ ප්‍රතිඵල",
+  "studentName": "ශිෂ්‍ය නම",
+  "event": "ඉසව්ව",
+  "totalMarks": "මුළු ලකුණු",
+  "dhammaSchoolRanking": "දහම් පාසල් ශ්‍රේණිගත කිරීම",
+  "schoolsAutomaticallyRanked": "එක් එක් පාසලේ මුළු ලකුණු අනුව දහම් පාසල් ස්වයංක්‍රීයව ශ්‍රේණිගත කර ඇත.",
+  "place": "ස්ථානය",
+
+
+
+
+  "enterCompetitionNumber": "තරඟ අංකය ඇතුළත් කරන්න",
+  "failedToLoadCompetition": "තරඟය පූරණය කිරීම අසාර්ථක විය",
+  "competitionNumber": "තරඟ අංකය",
+  "search": "සොයන්න",
+  "searching": "සොයමින්...",
+  "maximumMarks": "උපරිම ලකුණු",
+  "studentNumber": "ශිෂ්‍ය අංකය",
+ 
+  "marks": "ලකුණු",
+  "downloadStudentList": "ශිෂ්‍ය ලැයිස්තුව බාගත කරන්න",
+  "enterMarksForAllStudents": "කරුණාකර සියලුම සිසුන් සඳහා ලකුණු ඇතුළත් කරන්න",
+  "confirmSubmitMarks": "යොමු කළ පසු ලකුණු සංස්කරණය කළ නොහැක. ඉදිරියට යන්නද?",
+  "resultsSubmittedSuccessfully": "ප්‍රතිඵල සාර්ථකව යොමු කරන ලදී",
+  "failedToSubmitResults": "ප්‍රතිඵල යොමු කිරීම අසාර්ථක විය",
+ 
+  "submitResults": "ප්‍රතිඵල යොමු කරන්න",
+  "resultsAlreadySubmitted": "ප්‍රතිඵල දැනටමත් යොමු කර ඇත. සංස්කරණය අක්‍රීය කර ඇත."
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
